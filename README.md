@@ -1,4 +1,4 @@
-# Proposta de projeto para Avaliação Full Stack
+# Proposta de projeto para Avaliação Front-end
 ## Objetivo
 Para esta avaliação deverá ser criada uma aplicação web, a escolha da tecnologia fica a critério do candidato, para consumo e exibição dos dados da  [API Pokémon](https://pokeapi.co/), conforme esoecificações a seguir.
 - A interface gráfica da aplicação deve ser responsiva;
