@@ -1,6 +1,6 @@
 # Proposta de projeto para Avaliação Front-end
 ## Objetivo
-Para esta avaliação deverá ser criada uma aplicação web, a escolha da tecnologia fica a critério do candidato, para consumo e exibição dos dados da  [API Pokémon](https://pokeapi.co/), conforme esoecificações a seguir.
+Para esta avaliação deverá ser criada uma aplicação web, a escolha da tecnologia fica a critério do candidato, para consumo e exibição dos dados da  [API Pokémon](https://pokeapi.co/), conforme especificações a seguir.
 - A interface gráfica da aplicação deve ser responsiva;
 - A aplicação deve permitir o filtro nas buscas com base no dados listados;
 - A aplicação deve permitir a ordenação com base no dados listados;
